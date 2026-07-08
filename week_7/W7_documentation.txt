@@ -1,0 +1,2 @@
+The bug was the method or function name in test_food_order.py it should be the same as the method in food_order.py
+the secound bug is the missing import pytest in test_food_order.py
